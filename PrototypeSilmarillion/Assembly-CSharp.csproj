@@ -70,6 +70,11 @@
     <Compile Include="Assets\Efe\Scripts\partyData.cs" />
     <Compile Include="Assets\Efe\Scripts\playerController.cs" />
     <Compile Include="Assets\Efe\Scripts\townScripts.cs" />
+    <Compile Include="Assets\TakingTheRisk\Scripts\CameraController.cs" />
+    <Compile Include="Assets\TakingTheRisk\Scripts\gameManager.cs" />
+    <Compile Include="Assets\TakingTheRisk\Scripts\partyData.cs" />
+    <Compile Include="Assets\TakingTheRisk\Scripts\playerController.cs" />
+    <Compile Include="Assets\TakingTheRisk\Scripts\townScripts.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
@@ -89,61 +94,61 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualEffectGraph.Runtime">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualEffectGraph.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/PrototypeSilmarillion/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Silmarillion/Unity/PrototypeSilmarillion/Silmarillion_unity/PrototypeSilmarillion/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

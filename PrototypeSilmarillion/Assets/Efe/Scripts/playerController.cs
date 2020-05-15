@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using TMPro;
 
+namespace Efe { 
 public class playerController : MonoBehaviour
 {
 
@@ -146,4 +147,5 @@ public class playerController : MonoBehaviour
         }
     }
 
+}
 }

@@ -2,24 +2,27 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class townScripts : MonoBehaviour
+namespace Efe
 {
-
-    public GameObject townMenu;
-
-    public void goArena()
+    public class townScripts : MonoBehaviour
     {
 
-    }
+        public GameObject townMenu;
 
-    public void leaveTown()
-    {
-        townMenu.SetActive(false);    
+        public void goArena()
+        {
 
-    }
+        }
 
-    public void goTavern()
-    {
+        public void leaveTown()
+        {
+            townMenu.SetActive(false);
 
+        }
+
+        public void goTavern()
+        {
+
+        }
     }
 }
